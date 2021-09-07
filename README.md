@@ -1,2 +1,1 @@
-# onesentry.github.io
-博客
+# My personal blog and study notes.
