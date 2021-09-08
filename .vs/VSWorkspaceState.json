@@ -6,8 +6,9 @@
     "\\assets\\img",
     "\\_includes",
     "\\_layouts",
+    "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_layouts\\post.html",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
